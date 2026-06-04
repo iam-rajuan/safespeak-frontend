@@ -1,0 +1,27 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dependabot/npm_and_yarn/main/eslint-config-next-16.2.7",
+    "dependabot/npm_and_yarn/main/eslint-plugin-n-18.0.1",
+    "dependabot/npm_and_yarn/main/next-16.2.7",
+    "dependabot/npm_and_yarn/main/types/node-25.9.1",
+    "dependabot/npm_and_yarn/main/updates-d7dba5762d",
+    "main"
+  ],
+  "parent": {
+    "dependabot/npm_and_yarn/main/eslint-config-next-16.2.7": "main",
+    "dependabot/npm_and_yarn/main/eslint-plugin-n-18.0.1": "main",
+    "dependabot/npm_and_yarn/main/next-16.2.7": "main",
+    "dependabot/npm_and_yarn/main/types/node-25.9.1": "main",
+    "dependabot/npm_and_yarn/main/updates-d7dba5762d": "main",
+    "main": null
+  },
+  "order": [
+    "main",
+    "dependabot/npm_and_yarn/main/eslint-config-next-16.2.7",
+    "dependabot/npm_and_yarn/main/eslint-plugin-n-18.0.1",
+    "dependabot/npm_and_yarn/main/next-16.2.7",
+    "dependabot/npm_and_yarn/main/types/node-25.9.1",
+    "dependabot/npm_and_yarn/main/updates-d7dba5762d"
+  ]
+}
